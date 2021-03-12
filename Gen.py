@@ -1,9 +1,9 @@
 import random
 
 
-txt1=open("C:\\Users\\pielo\\Desktop\\Code\\Character\\Names.txt","r")
-txt2=open("C:\\Users\\pielo\\Desktop\\Code\\Character\\Emotions.txt","r")
-txt3=open("C:\\Users\\pielo\\Desktop\\Code\\Character\\Nouns.txt","r")
+txt1=open("location of file of Names","r")
+txt2=open("location of file of Emotions","r")
+txt3=open("location of file of Nouns","r")
 m1=txt1.readlines()
 m2=txt2.readlines()
 m3=txt3.readlines()
