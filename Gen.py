@@ -66,3 +66,4 @@ for j in range(0, int(num)):# output the desired number of prompts
 txt1.close()				# close files
 txt2.close()
 txt3.close()
+input('Press ENTER to exit')
